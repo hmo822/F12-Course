@@ -1,25 +1,37 @@
-# F12-Course Portfolio
+# Mohamed Nasr | Analytics Engineer
 
-Hi, I'm a Data Analysis student at F12. 
+Aspiring Analytics Engineer | Transforming Data into Insights.
 
-This repository contains my practical projects in Python & SQL.
+I build data pipelines, clean messy datasets, and create dashboards that help businesses make better decisions.
 
-## 🚀 Projects
+## 🚀 Projects Portfolio
 
-| # | Project Name | Description | Tools |
-|---|--------------|-------------|-------|
-| 01 | Coming Soon | First project | Python |
-| 02 | Coming Soon | Second project | SQL |
+| # | Project | Description | Tools |
+|---|---------|-------------|-------|
+| 01 | Coming Soon | Will be added soon | Python, SQL |
 
-## 🛠️ Skills
-- Python (Pandas, NumPy)
-- SQL
+> New projects will be added here regularly.
+
+## 🛠️ Tech Stack & Skills
+
+**Programming & Querying:**
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL (MySQL, PostgreSQL) - Joins, Window Functions, CTEs
+- Excel (Advanced - Pivot Tables, Power Query)
+
+**Data Visualization & BI:**
+- Power BI, Tableau
+
+**Core Concepts:**
+- ETL & Data Cleaning
+- Data Modeling
 - Git & GitHub
-- Data Cleaning & Analysis
+- Exploratory Data Analysis (EDA)
 
 ## 📫 Contact
-- GitHub: [https://github.com/hmo822/F12-Course/tree/main]
-- LinkedIn: [Your Link Here]
+- GitHub: https://github.com/hmo822
+- Portfolio Repo: https://github.com/hmo822/F12-Course
+- LinkedIn: [Add your LinkedIn here]
 
 ---
-*This portfolio is being built step by step - stay tuned!*
+*“Data is the new oil, but it's useless if unrefined.”*
